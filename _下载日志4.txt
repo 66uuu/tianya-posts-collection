@@ -1,0 +1,309 @@
+[23:55:32] ==================================================
+[23:55:32] 续集批次开始：50 个，736 MB
+[23:55:33]   源失败 gh-proxy.com: 301-永不消逝的电波：马里亚纳玄燕鸥.pdf: HTTPError
+[23:55:33]   源失败 gh-proxy.com: 301-永不消逝的电波：卡宾达的灯塔.pdf: HTTPError
+[23:55:34]   源失败 gh-proxy.com: 302-天涯帖——我只是一个杀手仅此而已.pdf: HTTPError
+[23:55:34]   源失败 gh-proxy.com: 301-永不消逝的电波：美索不达米亚之眼.pdf: HTTPError
+[23:55:38]   源失败 cdn.jsdelivr.net: 302-天涯帖——我只是一个杀手仅此而已.pdf: HTTPError
+[23:55:39]   源失败 cdn.jsdelivr.net: 301-永不消逝的电波：卡宾达的灯塔.pdf: HTTPError
+[23:55:39]   源失败 cdn.jsdelivr.net: 301-永不消逝的电波：美索不达米亚之眼.pdf: HTTPError
+[23:55:40]   源失败 cdn.jsdelivr.net: 301-永不消逝的电波：马里亚纳玄燕鸥.pdf: HTTPError
+[23:55:41]   源失败 ghproxy.net: 302-天涯帖——我只是一个杀手仅此而已.pdf: HTTPError
+[23:55:42]   源失败 ghproxy.net: 301-永不消逝的电波：美索不达米亚之眼.pdf: HTTPError
+[23:55:42]   源失败 ghproxy.net: 301-永不消逝的电波：马里亚纳玄燕鸥.pdf: HTTPError
+[23:55:42]   源失败 ghproxy.net: 301-永不消逝的电波：卡宾达的灯塔.pdf: HTTPError
+[23:55:45]   源失败 raw.githubusercontent.com: 301-永不消逝的电波：马里亚纳玄燕鸥.pdf: HTTPError
+[23:55:45]   源失败 raw.githubusercontent.com: 301-永不消逝的电波：美索不达米亚之眼.pdf: HTTPError
+[23:55:46] [1/50] [FAIL] 301-永不消逝的电波：马里亚纳玄燕鸥.pdf
+[23:55:46] [2/50] [FAIL] 301-永不消逝的电波：美索不达米亚之眼.pdf
+[23:55:48]   源失败 gh-proxy.com: 305-感谢小月月这样一个极品的朋友.pdf: HTTPError
+[23:55:48]   源失败 gh-proxy.com: 308-计算机发展史.pdf: HTTPError
+[23:55:51]   源失败 cdn.jsdelivr.net: 308-计算机发展史.pdf: HTTPError
+[23:55:54]   源失败 ghproxy.net: 308-计算机发展史.pdf: HTTPError
+[23:55:55]   源失败 cdn.jsdelivr.net: 305-感谢小月月这样一个极品的朋友.pdf: HTTPError
+[23:55:59]   源失败 ghproxy.net: 305-感谢小月月这样一个极品的朋友.pdf: HTTPError
+[23:56:16]   源失败 raw.githubusercontent.com: 302-天涯帖——我只是一个杀手仅此而已.pdf: RemoteDisconnected
+[23:56:17] [3/50] [FAIL] 302-天涯帖——我只是一个杀手仅此而已.pdf
+[23:56:19]   源失败 gh-proxy.com: 309-久违了-七剑战歌之风月.pdf: HTTPError
+[23:56:25]   源失败 cdn.jsdelivr.net: 309-久违了-七剑战歌之风月.pdf: HTTPError
+[23:56:28]   源失败 raw.githubusercontent.com: 308-计算机发展史.pdf: RemoteDisconnected
+[23:56:28]   源失败 raw.githubusercontent.com: 301-永不消逝的电波：卡宾达的灯塔.pdf: RemoteDisconnected
+[23:56:29]   源失败 ghproxy.net: 309-久违了-七剑战歌之风月.pdf: HTTPError
+[23:56:29] [4/50] [FAIL] 308-计算机发展史.pdf
+[23:56:29] [5/50] [FAIL] 301-永不消逝的电波：卡宾达的灯塔.pdf
+[23:56:31]   源失败 gh-proxy.com: 314-人之大欲，那些房中术-风雪漫千山.pdf: HTTPError
+[23:56:35]   源失败 gh-proxy.com: 312-两个局外人的对谈录.pdf: HTTPError
+[23:56:38]   源失败 cdn.jsdelivr.net: 314-人之大欲，那些房中术-风雪漫千山.pdf: HTTPError
+[23:56:42]   源失败 cdn.jsdelivr.net: 312-两个局外人的对谈录.pdf: HTTPError
+[23:56:43]   源失败 ghproxy.net: 314-人之大欲，那些房中术-风雪漫千山.pdf: HTTPError
+[23:56:45]   源失败 ghproxy.net: 312-两个局外人的对谈录.pdf: HTTPError
+[23:56:45]   源失败 raw.githubusercontent.com: 314-人之大欲，那些房中术-风雪漫千山.pdf: HTTPError
+[23:56:46] [6/50] [FAIL] 314-人之大欲，那些房中术-风雪漫千山.pdf
+[23:56:50]   源失败 gh-proxy.com: 314-千古名将英雄梦.epub: HTTPError
+[23:56:50]   源失败 raw.githubusercontent.com: 312-两个局外人的对谈录.pdf: HTTPError
+[23:56:51] [7/50] [FAIL] 312-两个局外人的对谈录.pdf
+[23:56:54]   源失败 gh-proxy.com: 315-山大大图集-更新至20220907.pdf: HTTPError
+[23:56:55]   源失败 cdn.jsdelivr.net: 314-千古名将英雄梦.epub: HTTPError
+[23:56:57]   源失败 raw.githubusercontent.com: 305-感谢小月月这样一个极品的朋友.pdf: RemoteDisconnected
+[23:56:58] [8/50] [FAIL] 305-感谢小月月这样一个极品的朋友.pdf
+[23:56:59]   源失败 ghproxy.net: 314-千古名将英雄梦.epub: HTTPError
+[23:57:00]   源失败 cdn.jsdelivr.net: 315-山大大图集-更新至20220907.pdf: HTTPError
+[23:57:02]   源失败 gh-proxy.com: 317-我当道士那些年.pdf: HTTPError
+[23:57:03]   源失败 raw.githubusercontent.com: 314-千古名将英雄梦.epub: HTTPError
+[23:57:03]   源失败 ghproxy.net: 315-山大大图集-更新至20220907.pdf: HTTPError
+[23:57:04] [9/50] [FAIL] 314-千古名将英雄梦.epub
+[23:57:06]   源失败 gh-proxy.com: 318-我只是一个杀手仅此而已.pdf: HTTPError
+[23:57:07]   源失败 raw.githubusercontent.com: 315-山大大图集-更新至20220907.pdf: HTTPError
+[23:57:08]   源失败 cdn.jsdelivr.net: 317-我当道士那些年.pdf: HTTPError
+[23:57:08] [10/50] [FAIL] 315-山大大图集-更新至20220907.pdf
+[23:57:10]   源失败 raw.githubusercontent.com: 309-久违了-七剑战歌之风月.pdf: RemoteDisconnected
+[23:57:11]   源失败 cdn.jsdelivr.net: 318-我只是一个杀手仅此而已.pdf: HTTPError
+[23:57:11] [11/50] [FAIL] 309-久违了-七剑战歌之风月.pdf
+[23:57:11]   源失败 gh-proxy.com: 320-有没有调查异事件的官方机构.pdf: HTTPError
+[23:57:12]   源失败 ghproxy.net: 317-我当道士那些年.pdf: HTTPError
+[23:57:13]   源失败 gh-proxy.com: 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub: HTTPError
+[23:57:15]   源失败 ghproxy.net: 318-我只是一个杀手仅此而已.pdf: HTTPError
+[23:57:16]   源失败 raw.githubusercontent.com: 317-我当道士那些年.pdf: HTTPError
+[23:57:17] [12/50] [FAIL] 317-我当道士那些年.pdf
+[23:57:17]   源失败 cdn.jsdelivr.net: 320-有没有调查异事件的官方机构.pdf: HTTPError
+[23:57:18]   源失败 gh-proxy.com: 324-神棍说汇总.pdf: HTTPError
+[23:57:18]   源失败 raw.githubusercontent.com: 318-我只是一个杀手仅此而已.pdf: HTTPError
+[23:57:19] [13/50] [FAIL] 318-我只是一个杀手仅此而已.pdf
+[23:57:19]   源失败 cdn.jsdelivr.net: 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub: HTTPError
+[23:57:21]   源失败 gh-proxy.com: 325-《毛主席语录》.pdf: HTTPError
+[23:57:21]   源失败 ghproxy.net: 320-有没有调查异事件的官方机构.pdf: HTTPError
+[23:57:22]   源失败 cdn.jsdelivr.net: 324-神棍说汇总.pdf: HTTPError
+[23:57:24]   源失败 raw.githubusercontent.com: 320-有没有调查异事件的官方机构.pdf: HTTPError
+[23:57:24]   源失败 cdn.jsdelivr.net: 325-《毛主席语录》.pdf: HTTPError
+[23:57:25] [14/50] [FAIL] 320-有没有调查异事件的官方机构.pdf
+[23:57:25]   源失败 ghproxy.net: 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub: HTTPError
+[23:57:26]   源失败 gh-proxy.com: 325-不被理解的毛ZE东 (虚声) .epub: HTTPError
+[23:57:26]   源失败 ghproxy.net: 324-神棍说汇总.pdf: HTTPError
+[23:57:31]   源失败 ghproxy.net: 325-《毛主席语录》.pdf: HTTPError
+[23:57:31]   源失败 raw.githubusercontent.com: 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub: HTTPError
+[23:57:32]   源失败 raw.githubusercontent.com: 324-神棍说汇总.pdf: HTTPError
+[23:57:32] [15/50] [FAIL] 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub
+[23:57:33] [16/50] [FAIL] 324-神棍说汇总.pdf
+[23:57:33]   源失败 cdn.jsdelivr.net: 325-不被理解的毛ZE东 (虚声) .epub: HTTPError
+[23:57:35]   源失败 raw.githubusercontent.com: 325-《毛主席语录》.pdf: HTTPError
+[23:57:35]   源失败 gh-proxy.com: 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf: HTTPError
+[23:57:36] [17/50] [FAIL] 325-《毛主席语录》.pdf
+[23:57:37]   源失败 gh-proxy.com: 325-毛泽东传.pdf: HTTPError
+[23:57:38]   源失败 ghproxy.net: 325-不被理解的毛ZE东 (虚声) .epub: HTTPError
+[23:57:39]   源失败 gh-proxy.com: 325-毛泽东文集1-8卷.pdf: HTTPError
+[23:57:42]   源失败 cdn.jsdelivr.net: 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf: HTTPError
+[23:57:44]   源失败 raw.githubusercontent.com: 325-不被理解的毛ZE东 (虚声) .epub: HTTPError
+[23:57:44]   源失败 cdn.jsdelivr.net: 325-毛泽东传.pdf: HTTPError
+[23:57:45] [18/50] [FAIL] 325-不被理解的毛ZE东 (虚声) .epub
+[23:57:48]   源失败 cdn.jsdelivr.net: 325-毛泽东文集1-8卷.pdf: HTTPError
+[23:57:50]   源失败 ghproxy.net: 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf: HTTPError
+[23:57:50]   源失败 gh-proxy.com: 325-毛泽东诗词全编鉴赏.pdf: HTTPError
+[23:57:53]   源失败 ghproxy.net: 325-毛泽东文集1-8卷.pdf: HTTPError
+[23:57:55]   源失败 raw.githubusercontent.com: 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf: HTTPError
+[23:57:56]   源失败 cdn.jsdelivr.net: 325-毛泽东诗词全编鉴赏.pdf: HTTPError
+[23:57:56] [19/50] [FAIL] 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf
+[23:57:57]   源失败 raw.githubusercontent.com: 325-毛泽东文集1-8卷.pdf: HTTPError
+[23:57:58] [20/50] [FAIL] 325-毛泽东文集1-8卷.pdf
+[23:57:58]   源失败 gh-proxy.com: 325-毛泽东选集一至七卷静火版.epub: HTTPError
+[23:57:59]   源失败 ghproxy.net: 325-毛泽东诗词全编鉴赏.pdf: HTTPError
+[23:58:00]   源失败 gh-proxy.com: 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf: HTTPError
+[23:58:02]   源失败 raw.githubusercontent.com: 325-毛泽东诗词全编鉴赏.pdf: HTTPError
+[23:58:03] [21/50] [FAIL] 325-毛泽东诗词全编鉴赏.pdf
+[23:58:04]   源失败 cdn.jsdelivr.net: 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf: HTTPError
+[23:58:05]   源失败 gh-proxy.com: 325-红星照耀中国.epub: HTTPError
+[23:58:07]   源失败 cdn.jsdelivr.net: 325-毛泽东选集一至七卷静火版.epub: HTTPError
+[23:58:07]   源失败 ghproxy.net: 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf: HTTPError
+[23:58:12]   源失败 raw.githubusercontent.com: 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf: HTTPError
+[23:58:13]   源失败 ghproxy.net: 325-毛泽东选集一至七卷静火版.epub: HTTPError
+[23:58:13] [22/50] [FAIL] 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf
+[23:58:17]   源失败 cdn.jsdelivr.net: 325-红星照耀中国.epub: HTTPError
+[23:58:17]   源失败 gh-proxy.com: 326-《缠中说禅大全》神燕版.pdf: HTTPError
+[23:58:18]   源失败 raw.githubusercontent.com: 325-毛泽东选集一至七卷静火版.epub: HTTPError
+[23:58:19] [23/50] [FAIL] 325-毛泽东选集一至七卷静火版.epub
+[23:58:20]   源失败 ghproxy.net: 325-红星照耀中国.epub: HTTPError
+[23:58:21]   源失败 cdn.jsdelivr.net: 326-《缠中说禅大全》神燕版.pdf: HTTPError
+[23:58:24]   源失败 gh-proxy.com: 326-土匪版《教你炒股票》.pdf: HTTPError
+[23:58:25]   源失败 raw.githubusercontent.com: 325-红星照耀中国.epub: HTTPError
+[23:58:26] [24/50] [FAIL] 325-红星照耀中国.epub
+[23:58:27]   源失败 ghproxy.net: 326-《缠中说禅大全》神燕版.pdf: HTTPError
+[23:58:29]   源失败 gh-proxy.com: 326-教你炒股票108课学习大纲.pdf: HTTPError
+[23:58:30]   源失败 cdn.jsdelivr.net: 326-土匪版《教你炒股票》.pdf: HTTPError
+[23:58:32]   源失败 raw.githubusercontent.com: 326-《缠中说禅大全》神燕版.pdf: HTTPError
+[23:58:33] [25/50] [FAIL] 326-《缠中说禅大全》神燕版.pdf
+[23:58:35]   源失败 gh-proxy.com: 326-瀛时陪你缠中说禅的知乎文章合集.pdf: HTTPError
+[23:58:37]   源失败 ghproxy.net: 326-土匪版《教你炒股票》.pdf: HTTPError
+[23:58:38]   源失败 cdn.jsdelivr.net: 326-教你炒股票108课学习大纲.pdf: HTTPError
+[23:58:43]   源失败 raw.githubusercontent.com: 326-土匪版《教你炒股票》.pdf: HTTPError
+[23:58:44]   源失败 cdn.jsdelivr.net: 326-瀛时陪你缠中说禅的知乎文章合集.pdf: HTTPError
+[23:58:44] [26/50] [FAIL] 326-土匪版《教你炒股票》.pdf
+[23:58:45]   源失败 ghproxy.net: 326-教你炒股票108课学习大纲.pdf: HTTPError
+[23:58:47]   源失败 gh-proxy.com: 326-缠中说缠（全部回复版）.chm: HTTPError
+[23:58:51]   源失败 ghproxy.net: 326-瀛时陪你缠中说禅的知乎文章合集.pdf: HTTPError
+[23:59:33]   源失败 raw.githubusercontent.com: 326-瀛时陪你缠中说禅的知乎文章合集.pdf: RemoteDisconnected
+[23:59:34] [27/50] [FAIL] 326-瀛时陪你缠中说禅的知乎文章合集.pdf
+[23:59:38]   源失败 gh-proxy.com: 326-缠师草图研究.pdf: HTTPError
+[23:59:42]   源失败 cdn.jsdelivr.net: 326-缠中说缠（全部回复版）.chm: RemoteDisconnected
+[23:59:43]   源失败 raw.githubusercontent.com: 326-教你炒股票108课学习大纲.pdf: RemoteDisconnected
+[23:59:44] [28/50] [FAIL] 326-教你炒股票108课学习大纲.pdf
+[23:59:46]   源失败 cdn.jsdelivr.net: 326-缠师草图研究.pdf: HTTPError
+[23:59:47]   源失败 ghproxy.net: 326-缠中说缠（全部回复版）.chm: HTTPError
+[23:59:47]   源失败 gh-proxy.com: 326-缠愽原集--全集.chm: HTTPError
+[23:59:47]   源失败 ghproxy.net: 325-毛泽东传.pdf: TimeoutError
+[23:59:50]   源失败 ghproxy.net: 326-缠师草图研究.pdf: HTTPError
+[23:59:50]   源失败 raw.githubusercontent.com: 326-缠中说缠（全部回复版）.chm: HTTPError
+[23:59:51] [29/50] [FAIL] 326-缠中说缠（全部回复版）.chm
+[23:59:52]   源失败 raw.githubusercontent.com: 325-毛泽东传.pdf: HTTPError
+[23:59:53] [30/50] [FAIL] 325-毛泽东传.pdf
+[23:59:54]   源失败 cdn.jsdelivr.net: 326-缠愽原集--全集.chm: HTTPError
+[23:59:54]   源失败 raw.githubusercontent.com: 326-缠师草图研究.pdf: HTTPError
+[23:59:55] [31/50] [FAIL] 326-缠师草图研究.pdf
+[23:59:56]   源失败 gh-proxy.com: 75X-中国部分地图册（16开本）.pdf: HTTPError
+[23:59:57]   源失败 gh-proxy.com: 326-阿娇回复整理2.pdf: HTTPError
+[23:59:58]   源失败 gh-proxy.com: 75X-地缘看世界--第2册 春秋.pdf: HTTPError
+[23:59:58]   源失败 ghproxy.net: 326-缠愽原集--全集.chm: HTTPError
+[00:00:02]   源失败 raw.githubusercontent.com: 326-缠愽原集--全集.chm: HTTPError
+[00:00:03] [32/50] [FAIL] 326-缠愽原集--全集.chm
+[00:00:03]   源失败 cdn.jsdelivr.net: 75X-中国部分地图册（16开本）.pdf: HTTPError
+[00:00:03]   源失败 cdn.jsdelivr.net: 326-阿娇回复整理2.pdf: HTTPError
+[00:00:05]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第2册 春秋.pdf: HTTPError
+[00:00:07]   源失败 gh-proxy.com: 75X-地缘看世界--第3册 战国.pdf: HTTPError
+[00:00:07]   源失败 ghproxy.net: 75X-中国部分地图册（16开本）.pdf: HTTPError
+[00:00:09]   源失败 ghproxy.net: 326-阿娇回复整理2.pdf: HTTPError
+[00:00:09]   源失败 ghproxy.net: 75X-地缘看世界--第2册 春秋.pdf: HTTPError
+[00:00:12]   源失败 raw.githubusercontent.com: 75X-中国部分地图册（16开本）.pdf: HTTPError
+[00:00:13]   源失败 raw.githubusercontent.com: 326-阿娇回复整理2.pdf: HTTPError
+[00:00:13] [33/50] [FAIL] 75X-中国部分地图册（16开本）.pdf
+[00:00:14]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第2册 春秋.pdf: HTTPError
+[00:00:14] [34/50] [FAIL] 326-阿娇回复整理2.pdf
+[00:00:15] [35/50] [FAIL] 75X-地缘看世界--第2册 春秋.pdf
+[00:00:15]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第3册 战国.pdf: HTTPError
+[00:00:17]   源失败 gh-proxy.com: 75X-地缘看世界--第4册 秦汉.pdf: HTTPError
+[00:00:17]   源失败 gh-proxy.com: 75X-地缘看世界--第5册 西域（上）.pdf: HTTPError
+[00:00:18]   源失败 gh-proxy.com: 75X-地缘看世界--第6册 西域（下）.pdf: HTTPError
+[00:00:21]   源失败 ghproxy.net: 75X-地缘看世界--第3册 战国.pdf: HTTPError
+[00:00:25]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第4册 秦汉.pdf: HTTPError
+[00:00:26]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第3册 战国.pdf: HTTPError
+[00:00:26]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第5册 西域（上）.pdf: HTTPError
+[00:00:27]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第6册 西域（下）.pdf: HTTPError
+[00:00:27] [36/50] [FAIL] 75X-地缘看世界--第3册 战国.pdf
+[00:00:29]   源失败 ghproxy.net: 75X-地缘看世界--第4册 秦汉.pdf: HTTPError
+[00:00:30]   源失败 gh-proxy.com: 75X-地缘看世界--第7册 中东.pdf: HTTPError
+[00:00:30]   源失败 ghproxy.net: 75X-地缘看世界--第5册 西域（上）.pdf: HTTPError
+[00:00:30]   源失败 ghproxy.net: 75X-地缘看世界--第6册 西域（下）.pdf: HTTPError
+[00:00:33]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第4册 秦汉.pdf: HTTPError
+[00:00:34] [37/50] [FAIL] 75X-地缘看世界--第4册 秦汉.pdf
+[00:00:35]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第5册 西域（上）.pdf: HTTPError
+[00:00:35]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第6册 西域（下）.pdf: HTTPError
+[00:00:36] [38/50] [FAIL] 75X-地缘看世界--第5册 西域（上）.pdf
+[00:00:36] [39/50] [FAIL] 75X-地缘看世界--第6册 西域（下）.pdf
+[00:00:36]   源失败 gh-proxy.com: 75X-地缘看世界--第7册 中东（第二版）.pdf: HTTPError
+[00:00:37]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第7册 中东.pdf: HTTPError
+[00:00:37]   源失败 gh-proxy.com: 75X-地缘看世界--第8册 欧洲（上）.pdf: HTTPError
+[00:00:40]   源失败 gh-proxy.com: 75X-地缘看世界--第9册 欧洲（下）.pdf: HTTPError
+[00:00:40]   源失败 ghproxy.net: 75X-地缘看世界--第7册 中东.pdf: HTTPError
+[00:00:43]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第7册 中东（第二版）.pdf: HTTPError
+[00:00:44]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第7册 中东.pdf: HTTPError
+[00:00:44]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第8册 欧洲（上）.pdf: HTTPError
+[00:00:45] [40/50] [FAIL] 75X-地缘看世界--第7册 中东.pdf
+[00:00:47]   源失败 ghproxy.net: 75X-地缘看世界--第7册 中东（第二版）.pdf: HTTPError
+[00:00:47]   源失败 cdn.jsdelivr.net: 75X-地缘看世界--第9册 欧洲（下）.pdf: HTTPError
+[00:00:48]   源失败 gh-proxy.com: 75X-地缘看世界·大航海时代（上）.pdf: HTTPError
+[00:00:49]   源失败 ghproxy.net: 75X-地缘看世界--第8册 欧洲（上）.pdf: HTTPError
+[00:00:51]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第7册 中东（第二版）.pdf: HTTPError
+[00:00:52]   源失败 ghproxy.net: 75X-地缘看世界--第9册 欧洲（下）.pdf: HTTPError
+[00:00:52] [41/50] [FAIL] 75X-地缘看世界--第7册 中东（第二版）.pdf
+[00:00:53]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第8册 欧洲（上）.pdf: HTTPError
+[00:00:53]   源失败 cdn.jsdelivr.net: 75X-地缘看世界·大航海时代（上）.pdf: HTTPError
+[00:00:54] [42/50] [FAIL] 75X-地缘看世界--第8册 欧洲（上）.pdf
+[00:00:55]   源失败 gh-proxy.com: 75X-地缘看世界地图册（单页）.pdf: HTTPError
+[00:00:56]   源失败 raw.githubusercontent.com: 75X-地缘看世界--第9册 欧洲（下）.pdf: HTTPError
+[00:00:56]   源失败 gh-proxy.com: 75X-地缘看世界地图册（跨页）.pdf: HTTPError
+[00:00:57] [43/50] [FAIL] 75X-地缘看世界--第9册 欧洲（下）.pdf
+[00:00:58]   源失败 ghproxy.net: 75X-地缘看世界·大航海时代（上）.pdf: HTTPError
+[00:01:00]   源失败 cdn.jsdelivr.net: 75X-地缘看世界地图册（单页）.pdf: HTTPError
+[00:01:02]   源失败 gh-proxy.com: 75X-战国地图册（8开本）.pdf: HTTPError
+[00:01:02]   源失败 raw.githubusercontent.com: 75X-地缘看世界·大航海时代（上）.pdf: HTTPError
+[00:01:03]   源失败 cdn.jsdelivr.net: 75X-地缘看世界地图册（跨页）.pdf: HTTPError
+[00:01:03] [44/50] [FAIL] 75X-地缘看世界·大航海时代（上）.pdf
+[00:01:05]   源失败 gh-proxy.com: 75X-秦汉地图册(8开本).pdf: HTTPError
+[00:01:06]   源失败 ghproxy.net: 75X-地缘看世界地图册（单页）.pdf: HTTPError
+[00:01:07]   源失败 cdn.jsdelivr.net: 75X-战国地图册（8开本）.pdf: HTTPError
+[00:01:08]   源失败 ghproxy.net: 75X-地缘看世界地图册（跨页）.pdf: HTTPError
+[00:01:09]   源失败 raw.githubusercontent.com: 75X-地缘看世界地图册（单页）.pdf: HTTPError
+[00:01:10] [45/50] [FAIL] 75X-地缘看世界地图册（单页）.pdf
+[00:01:11]   源失败 ghproxy.net: 75X-战国地图册（8开本）.pdf: HTTPError
+[00:01:12]   源失败 raw.githubusercontent.com: 75X-地缘看世界地图册（跨页）.pdf: HTTPError
+[00:01:12]   源失败 gh-proxy.com: 75X-西域地图册（8开本）.pdf: HTTPError
+[00:01:13]   源失败 cdn.jsdelivr.net: 75X-秦汉地图册(8开本).pdf: HTTPError
+[00:01:13] [46/50] [FAIL] 75X-地缘看世界地图册（跨页）.pdf
+[00:01:16]   源失败 raw.githubusercontent.com: 75X-战国地图册（8开本）.pdf: HTTPError
+[00:01:17] [47/50] [FAIL] 75X-战国地图册（8开本）.pdf
+[00:01:17]   源失败 ghproxy.net: 75X-秦汉地图册(8开本).pdf: HTTPError
+[00:01:18]   源失败 gh-proxy.com: 75X-谁在世界中心.pdf: HTTPError
+[00:01:21]   源失败 raw.githubusercontent.com: 75X-秦汉地图册(8开本).pdf: HTTPError
+[00:01:22] [48/50] [FAIL] 75X-秦汉地图册(8开本).pdf
+[00:01:25]   源失败 cdn.jsdelivr.net: 75X-西域地图册（8开本）.pdf: HTTPError
+[00:01:28]   源失败 cdn.jsdelivr.net: 75X-谁在世界中心.pdf: HTTPError
+[00:01:36]   源失败 ghproxy.net: 75X-谁在世界中心.pdf: HTTPError
+[00:01:39]   源失败 raw.githubusercontent.com: 75X-谁在世界中心.pdf: HTTPError
+[00:01:40] [49/50] [FAIL] 75X-谁在世界中心.pdf
+[00:01:42]   源失败 ghproxy.net: 75X-西域地图册（8开本）.pdf: HTTPError
+[00:01:47]   源失败 raw.githubusercontent.com: 75X-西域地图册（8开本）.pdf: HTTPError
+[00:01:48] [50/50] [FAIL] 75X-西域地图册（8开本）.pdf
+[00:01:48] 续集完成：新下载 0，已存在 0，失败 50，共 0 MB
+[00:03:35] ==================================================
+[00:03:35] 续集批次开始：50 个，736 MB
+[00:03:39] [1/50] [OK] 301-永不消逝的电波：马里亚纳玄燕鸥.pdf (3.0MB)
+[00:03:40] [2/50] [OK] 302-天涯帖——我只是一个杀手仅此而已.pdf (0.9MB)
+[00:03:43] [3/50] [OK] 305-感谢小月月这样一个极品的朋友.pdf (0.8MB)
+[00:03:52] [4/50] [OK] 308-计算机发展史.pdf (1.3MB)
+[00:03:58] [5/50] [OK] 301-永不消逝的电波：美索不达米亚之眼.pdf (5.4MB)
+[00:03:58] [6/50] [OK] 309-久违了-七剑战歌之风月.pdf (8.6MB)
+[00:04:01] [7/50] [OK] 301-永不消逝的电波：卡宾达的灯塔.pdf (7.4MB)
+[00:04:02] [8/50] [OK] 314-千古名将英雄梦.epub (2.3MB)
+[00:04:02] [9/50] [OK] 314-人之大欲，那些房中术-风雪漫千山.pdf (0.5MB)
+[00:04:10] [10/50] [OK] 315-山大大图集-更新至20220907.pdf (12.2MB)
+[00:04:14] [11/50] [OK] 317-我当道士那些年.pdf (1.3MB)
+[00:04:14] [12/50] [OK] 318-我只是一个杀手仅此而已.pdf (0.9MB)
+[00:04:18] [13/50] [OK] 312-两个局外人的对谈录.pdf (1.9MB)
+[00:04:23] [14/50] [OK] 321-中国历史那些事儿系列套装：明朝那些事儿（全7册）、这里曾经是汉朝（全6册）、唐史并不如烟（全5册）、如果这是宋史（全10册）.epub (9.4MB)
+[00:04:24] [15/50] [OK] 324-神棍说汇总.pdf (10.4MB)
+[00:04:25] [16/50] [OK] 325-不被理解的毛ZE东 (虚声) .epub (2.2MB)
+[00:04:27] [17/50] [OK] 325-《毛主席语录》.pdf (1.3MB)
+[00:04:44] [18/50] [OK] 325-建国以来毛泽东文稿[第12册](1966.1-1968.12).pdf (9.5MB)
+[00:04:56] [19/50] [OK] 325-毛泽东传.pdf (8.6MB)
+[00:05:01] [20/50] [OK] 325-毛泽东文集1-8卷.pdf (8.8MB)
+[00:05:03] [21/50] [OK] 325-窝老人家九评黄金神棍丨黄金神棍和缠中说禅.pdf (0.5MB)
+[00:05:03] [22/50] [OK] 325-毛泽东选集一至七卷静火版.epub (2.8MB)
+[00:05:04] [23/50] [OK] 325-毛泽东诗词全编鉴赏.pdf (11.6MB)
+[00:05:09] [24/50] [OK] 325-红星照耀中国.epub (6.8MB)
+[00:05:14] [25/50] [OK] 326-《缠中说禅大全》神燕版.pdf (21.0MB)
+[00:05:31] [26/50] [OK] 326-瀛时陪你缠中说禅的知乎文章合集.pdf (26.2MB)
+[00:05:32] [27/50] [OK] 326-教你炒股票108课学习大纲.pdf (0.1MB)
+[00:06:14]   源失败 gh-proxy.com: 320-有没有调查异事件的官方机构.pdf: TimeoutError
+[00:06:17] [28/50] [OK] 326-土匪版《教你炒股票》.pdf (61.6MB)
+[00:06:24] [29/50] [OK] 326-缠愽原集--全集.chm (5.5MB)
+[00:06:30] [30/50] [OK] 326-阿娇回复整理2.pdf (0.6MB)
+[00:06:48] [31/50] [OK] 326-缠中说缠（全部回复版）.chm (45.8MB)
+[00:06:58] [32/50] [OK] 75X-地缘看世界--第2册 春秋.pdf (25.6MB)
+[00:07:16]   源失败 cdn.jsdelivr.net: 320-有没有调查异事件的官方机构.pdf: HTTPError
+[00:07:32] [33/50] [OK] 75X-地缘看世界--第3册 战国.pdf (28.8MB)
+[00:07:40]   源失败 gh-proxy.com: 326-缠师草图研究.pdf: TimeoutError
+[00:07:49] [34/50] [OK] 75X-中国部分地图册（16开本）.pdf (20.5MB)
+[00:07:52] [35/50] [OK] 326-缠师草图研究.pdf (0.7MB)
+[00:07:59] [36/50] [OK] 75X-地缘看世界--第5册 西域（上）.pdf (31.0MB)
+[00:08:20] [37/50] [OK] 75X-地缘看世界--第4册 秦汉.pdf (13.8MB)
+[00:08:28] [38/50] [OK] 75X-地缘看世界--第7册 中东（第二版）.pdf (6.9MB)
+[00:08:31] [39/50] [OK] 75X-地缘看世界--第6册 西域（下）.pdf (36.2MB)
+[00:08:46] [40/50] [OK] 75X-地缘看世界--第7册 中东.pdf (29.7MB)
+[00:08:55] [41/50] [OK] 75X-地缘看世界·大航海时代（上）.pdf (5.5MB)
+[00:08:57] [42/50] [OK] 75X-地缘看世界--第8册 欧洲（上）.pdf (25.3MB)
+[00:09:19] [43/50] [OK] 75X-地缘看世界地图册（单页）.pdf (61.6MB)
+[00:09:56] [44/50] [OK] 75X-地缘看世界--第9册 欧洲（下）.pdf (30.9MB)
+[00:09:57] [45/50] [OK] 75X-战国地图册（8开本）.pdf (15.4MB)
+[00:10:22] [46/50] [OK] 320-有没有调查异事件的官方机构.pdf (10.7MB)
+[00:10:31] [47/50] [OK] 75X-西域地图册（8开本）.pdf (15.5MB)
+[00:10:53] [48/50] [OK] 75X-谁在世界中心.pdf (27.2MB)
+[00:11:01] [49/50] [OK] 75X-秦汉地图册(8开本).pdf (10.2MB)
+[00:11:14] [50/50] [OK] 75X-地缘看世界地图册（跨页）.pdf (61.6MB)
+[00:11:14] 续集完成：新下载 50，已存在 0，失败 0，共 736 MB
